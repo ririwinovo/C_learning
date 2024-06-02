@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "731e68648b1b05ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaf54c6715980fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5f94d9940be778",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb41b354d0d53212",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eea67d293a1c41f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1262f1344cc62a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "5a4cf4326ee7da32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#双指针",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa78ecdcdc05fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "542700b1122c18e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1854387de541fe83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ca596de4a2eae0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c761f3a639312298",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc0c5e4d68160db9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89cf44ff92c2919c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "3c5f94d9940be778",
+  "lastOpenFiles": [
+    "leetcode/150、逆波兰表达式求值.md",
+    "C++STL/2（6）stack容器.md",
+    "C++STL/1、STL教程.md",
+    "C++STL/2（2）vector容器.md",
+    "C++STL/2（1）string容器.md",
+    "picture/Capture_20240409_203744.jpg",
+    "picture/Capture_20240410_203128.jpg",
+    "picture/Pasted image 20240516202106.png",
+    "picture/Pasted image 20240529192343.png",
+    "picture/Pasted image 20240529200200.png",
+    "picture/Pasted image 20240529200338.png",
+    "z.NewIdea/5.18-2024.md",
+    "z.NewIdea/Welcome.md",
+    "z.NewIdea/ubuntu各种命令.md",
+    "z.NewIdea/安装clash-ubuntu.md",
+    "z.NewIdea/VMware-ubuntu联网.md",
+    "算法知识点/vector容器.md",
+    "算法知识点/char类型.md",
+    "算法知识点/string类型.md",
+    "算法知识点/unordered_map.md",
+    "leetcode/1047、删除字符串中的所有相邻重复项.md",
+    "leetcode/20、有效的括号.md",
+    "leetcode/225、用队列实现栈.md",
+    "leetcode/232、用栈实现队列.md",
+    "算法知识点/c++常用函数/reverse函数.md",
+    "算法知识点/二叉搜索树非迭代算法知识点.md",
+    "算法知识点/unordered_map-冲突-ririwin_Win11.md",
+    "算法知识点/双指针.md",
+    "算法知识点/双指针-冲突-ririwin_Win11.md",
+    "算法知识点/unordered_set.md",
+    "算法知识点/ASCII码表.md",
+    "leetcode/225、用队列实现栈.md.nssyncsc",
+    "_debug_remotely_save",
+    "picture/Pasted image 20240529194529.png",
+    "picture/Pasted image 20240529194328.png",
+    "picture/Pasted image 20240529193340.png",
+    "picture/Pasted image 20240529193028.png",
+    "C++STL",
+    "z.NewIdea/picture",
+    "z.NewIdea",
+    "KamaCoder",
+    "算法知识点/c++常用函数",
+    "算法知识点",
+    "picture",
+    "leetcode",
+    "未命名.canvas"
+  ]
+}
