@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "z.NewIdea/git-定期维护.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#双指针",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "89cf44ff92c2919c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "z.NewIdea/git-定期维护.md"
+              }
+            }
+          },
+          {
             "id": "64ca596de4a2eae0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "z.NewIdea/git-定期维护.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "z.NewIdea/git-定期维护.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,24 +128,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "89cf44ff92c2919c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,17 +142,22 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "3c5f94d9940be778",
   "lastOpenFiles": [
+    "README.md",
+    "leetcode/383、赎金信.md",
+    "C++STL/1.1、STL大佬笔记.md",
+    "C++STL/1、STL教程.md",
+    "C++STL/2、C++ 迭代器(iterator)超详解+实例演练.md",
+    "C++STL/2（1）string容器.md",
+    "C++STL/2（2）vector容器.md",
+    "z.NewIdea/git-定期维护.md",
+    "leetcode/349、两个数组的交集.md",
     "leetcode/150、逆波兰表达式求值.md",
     "C++STL/2（6）stack容器.md",
-    "C++STL/1、STL教程.md",
-    "C++STL/2（2）vector容器.md",
-    "C++STL/2（1）string容器.md",
     "picture/Capture_20240409_203744.jpg",
     "picture/Capture_20240410_203128.jpg",
     "picture/Pasted image 20240516202106.png",
@@ -176,11 +179,6 @@
     "leetcode/232、用栈实现队列.md",
     "算法知识点/c++常用函数/reverse函数.md",
     "算法知识点/二叉搜索树非迭代算法知识点.md",
-    "算法知识点/unordered_map-冲突-ririwin_Win11.md",
-    "算法知识点/双指针.md",
-    "算法知识点/双指针-冲突-ririwin_Win11.md",
-    "算法知识点/unordered_set.md",
-    "算法知识点/ASCII码表.md",
     "leetcode/225、用队列实现栈.md.nssyncsc",
     "_debug_remotely_save",
     "picture/Pasted image 20240529194529.png",

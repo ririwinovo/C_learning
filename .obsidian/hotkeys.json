@@ -15,7 +15,8 @@
       "key": "T"
     }
   ],
-  "editor:insert-link": [
+  "editor:insert-link": [],
+  "editor:insert-callout": [
     {
       "modifiers": [
         "Alt"
