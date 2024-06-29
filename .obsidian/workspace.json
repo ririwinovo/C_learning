@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abaf54c6715980fd",
+        "id": "d39e5dcea5882e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5f94d9940be778",
+            "id": "c6ceed5cdfafe97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,19 +145,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c5f94d9940be778",
+  "active": "c6ceed5cdfafe97f",
   "lastOpenFiles": [
-    "README.md",
-    "leetcode/383、赎金信.md",
-    "C++STL/1.1、STL大佬笔记.md",
-    "C++STL/1、STL教程.md",
-    "C++STL/2、C++ 迭代器(iterator)超详解+实例演练.md",
+    "z.NewIdea/VMware-ubuntu联网.md",
+    "z.NewIdea/暑假计划/大体思路.md",
+    "z.NewIdea/未命名.md",
+    "z.NewIdea/暑假计划",
     "C++STL/2（1）string容器.md",
     "C++STL/2（2）vector容器.md",
+    "C++STL/2（6）stack容器.md",
+    "C++STL/2、C++ 迭代器(iterator)超详解+实例演练.md",
+    "C++STL/1.1、STL大佬笔记.md",
+    "C++STL/1、STL教程.md",
     "z.NewIdea/git-定期维护.md",
+    "README.md",
+    "leetcode/383、赎金信.md",
     "leetcode/349、两个数组的交集.md",
     "leetcode/150、逆波兰表达式求值.md",
-    "C++STL/2（6）stack容器.md",
     "picture/Capture_20240409_203744.jpg",
     "picture/Capture_20240410_203128.jpg",
     "picture/Pasted image 20240516202106.png",
@@ -168,7 +172,6 @@
     "z.NewIdea/Welcome.md",
     "z.NewIdea/ubuntu各种命令.md",
     "z.NewIdea/安装clash-ubuntu.md",
-    "z.NewIdea/VMware-ubuntu联网.md",
     "算法知识点/vector容器.md",
     "算法知识点/char类型.md",
     "算法知识点/string类型.md",
@@ -177,8 +180,6 @@
     "leetcode/20、有效的括号.md",
     "leetcode/225、用队列实现栈.md",
     "leetcode/232、用栈实现队列.md",
-    "算法知识点/c++常用函数/reverse函数.md",
-    "算法知识点/二叉搜索树非迭代算法知识点.md",
     "leetcode/225、用队列实现栈.md.nssyncsc",
     "_debug_remotely_save",
     "picture/Pasted image 20240529194529.png",
@@ -192,7 +193,6 @@
     "算法知识点/c++常用函数",
     "算法知识点",
     "picture",
-    "leetcode",
     "未命名.canvas"
   ]
 }
